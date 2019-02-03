@@ -26,6 +26,9 @@ const Form = () => {
             <label for="lastName">Apellidos</label>
             <input type="text" className="form-control" id="lastName"/>
           </div>
+          <div className="text-center">
+            <button type="submit" class="btn btn-primary">Enviar</button>
+          </div>
         </form>
       </div>
     </div>
