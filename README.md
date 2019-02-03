@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Dependencias agregadas
+
+* Bootstrap
+
+> npm i bootstrap --save
+
+* React-router-dom
+
+> npm i react-router-dom --save
+
 ## Available Scripts
 
 In the project directory, you can run:
